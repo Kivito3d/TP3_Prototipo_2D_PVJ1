@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1df89fd9ba23824b988a91487966f6e, type: 3}
+  m_Name: EnemyLv1_OscBig
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Droide
+  enemyIcon: {fileID: 4271500242316057105, guid: 38831119fa6ada74c9b9f66ca2c6b702, type: 3}
+  enemyController: {fileID: -505748849544903190, guid: 38831119fa6ada74c9b9f66ca2c6b702, type: 3}
+  damage: 20
+  enemySound: {fileID: 0}
+  vfxPrefab: {fileID: 0}
+  shootFrequency: 5
+  speed: 4
